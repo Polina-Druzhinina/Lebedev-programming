@@ -26,6 +26,6 @@ int main(void)
         }
 
     }
-    cout<<count; //количество
+    cout<<count; 
     return 0;
 }
