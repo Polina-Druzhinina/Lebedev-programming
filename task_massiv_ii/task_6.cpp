@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(void){
+int main(void)
+{
     int n, count_zero = 0, maxi = 0;
     cout<<"Enten count number(c): ";
     cin>>n;
@@ -23,6 +24,5 @@ int main(void){
     for(int i = 0; i < n; i++){
         cout<<arr[i]<<" ";
     }    
-    return 0;  
-
+    return 0;
 }
