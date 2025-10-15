@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(void){
-    int n, count_zero = 0, maxi = 0;;
+    int n, count_zero = 0, maxi = 0;
     cout<<"Enten count number(c): ";
     cin>>n;
     int arr[n];
